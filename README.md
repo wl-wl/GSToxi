@@ -1,3 +1,4 @@
 # GSToxi: Gated Cross-Modal Modeling with Graph-Sequence Encoders for Peptide Toxicity Prediction
 
-![framewok](framework.jpg)
+![Framework overview](./framework.jpg)
+
